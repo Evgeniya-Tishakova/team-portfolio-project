@@ -1,3 +1,52 @@
+# 🌐 Team Portfolio Project
+
+Responsive multipage website built as part of a team project during the GoIT Fullstack Developer course. The site includes portfolio, team information, and contact sections. Developed using semantic HTML, SCSS, and JavaScript.
+
+---
+
+## 🚀 Features
+
+- Mobile-first responsive design
+- Interactive navigation and modal windows
+- Smooth scrolling and hover effects
+- Portfolio section with filter buttons
+- Team section with profile cards
+- Contact form (static)
+- Clean and modular code structure
+
+---
+
+## 🧩 My Role
+
+**Evgeniya Tishakova**  
+I was responsible for:
+
+- Developing the **Header** section with navigation
+- Implementing the **About Me** section layout and styling
+- Making both sections **responsive** for mobile and tablet
+- Adding hover effects and smooth scrolling
+- Collaborating via **GitHub**, resolving merge conflicts
+
+---
+
+## 🛠 Tech Stack
+
+- **HTML5**
+- **SCSS / CSS3**
+- **JavaScript (ES6+)**
+- **Parcel** bundler *(or Vite, if applicable)*
+- **Git / GitHub**
+
+
+## 🚀 Run Locally
+
+```bash
+git clone https://github.com/Evgeniya-Tishakova/team-portfolio-project.git
+cd team-portfolio-project
+# Open index.html in your browser
+
+
+
 # Vanilla App Template
 
 Цей проект було створено за допомогою Vite. Для знайомства та налаштування
